@@ -1,6 +1,3 @@
-// NextJS
-import Link from 'next/link';
-
 // Components
 import Layout from '@/components/Layout';
 import ProductItem from '@/components/ProductItem';
@@ -12,14 +9,12 @@ import Col from 'react-bootstrap/Col';
 // API
 import { API_URL } from '@/config/index';
 
-export default function HomePage({ products }) {
+export default function ProductsPage({ products }) {
   return (
     <Layout>
       <Row>
         <Col>
-          <h2 className='fw-bold'>
-            Placeholder for filters
-          </h2>
+          <h1>Best meeting venues and incentive activities in Sweden</h1>
           {products.length === 0 && <h3>No MICE products to show</h3>}
         </Col>
       </Row>
@@ -27,13 +22,6 @@ export default function HomePage({ products }) {
         {products.map((prd) => (
           <ProductItem key={prd.id} prd={prd} />
         ))}
-      </Row>
-      <Row>
-        <Col>
-          <Link href="/products">
-            <a className="btn btn-secondary">VIEW ALL PRODUCTS {'>'}</a>
-          </Link>
-        </Col>
       </Row>
     </Layout>
   );
@@ -44,7 +32,7 @@ export async function getStaticProps() {
   const products = await res.json();
 
   return {
-    props: { products: products.slice(0, 4) },
+    props: { products },
     revalidate: 1,
   };
 }

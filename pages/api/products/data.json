@@ -1,0 +1,128 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "1909 Sigtuna Stadshotell",
+      "slug": "1909-sigtuna-stadshotell",
+      "headline": "Hundraårigt hotell intill Mälaren i Sigtuna mellan Stockholm och Arlanda",
+      "address": "Stora Nygatan 3, 193 30 Sigtuna",
+      "description": "Mitt i centrala Sigtuna ligger 1909 Sigtuna Stadshotell vid Mälarens strand. Precis som namnet antyder uppfördes hotellet redan 1909 och är fortfarande en populär mötesplats. Här finns både arvet från det medeltida Sigtuna och elegansen från sekelskiftets design och arkitektur. Närheten till Arlanda, Stockholm och Uppsala betyder att man snabbt kommer på plats. 1909 Sigtuna Stadshotell är ett av Sveriges få femstjärniga hotell och har tilldelats utmärkelsen Sveriges bästa hotell. Gästrummen är omsorgsfullt inredda i 30-50-talsstil med modern tappning. Många av möblerna och armaturerna är specialritade, andra är skandinaviska klassiker i original.",
+      "image": "/images/sample/hotel-dannegården-1.jpg",
+      "images": [
+        "/images/sample/event2.jpg",
+        "/images/sample/event3.jpg",
+        "/images/sample/event4.jpg"
+      ],
+      "location": "Det är lätt att hitta till Sigtuna. Sigtuna ligger vid Mälaren 15 minuter sydväst om Arlanda, 30 minuter sydväst om Uppsala och 30 minuter nordväst om Stockholm. Det är väl skyltat till Sigtuna från E4 och E18. Väl framme vid Sigtuna rondell, följ hotellslingan mot Sigtuna Stadshotell och Sigtuna C. Fortsätt vägen ner till vattnet. Följ sedan strandvägen cirka 500 meter. Hotellet ligger på höger sida. Parkering finns på den sida av huset som vätter mot vattnet.",
+      "facilities": {
+        "hotelrooms": "27",
+        "meetingrooms": "6",
+        "maxparticipants": "60",
+        "restaurantcapacity": "65"
+      },
+      "category": ["Conference Hotel"],
+      "destination": ["Sigtuna"],
+      "tags": {
+        "theme": ["Charming Small Towns", "Secluded and idyllic location"],
+        "maxparticipants": "60",
+        "restaurantcapacity": "65"
+      },
+      "created": "",
+      "updated": ""
+    },
+    {
+      "id": "2",
+      "name": "Hotel Dannegården",
+      "slug": "hotel-dannegården",
+      "headline": "Personal and comfortable",
+      "address": "Stora Nygatan 3, 193 30 Sigtuna",
+      "description": "Dannegården is a beautiful former shipowners villa built in 1910, well preserved with period features such as exposed beams, stucco and original wooden floors. The 26 bedrooms have new DUX beds to offer a good nights sleep and the décor is a perfect mix between the modern and the classic  the owner has decorated them with great care and love. The villa offers four modern spaces suitable for meetings, conferences and events. It has been selected by foodie organisation Skånska Matupplevelser, focusing on locally sourced produce and traditional flavours. It is easy to feel inspired end energised here at the very southernmost tip of Sweden, by the plains of Söderslätt.",
+      "image": "/images/sample/hotel-dannegården-1.jpg",
+      "images": [
+        "/images/sample/hotel-dannegården-2.jpg",
+        "/images/sample/hotel-dannegården-3.jpg",
+        "/images/sample/hotel-dannegården-4.jpg",
+        "/images/sample/hotel-dannegården-5.jpg"
+      ],
+      "category": ["Conference Hotel"],
+      "destination": ["Skåne"],
+      "facilities": {
+        "hotelrooms": "27",
+        "meetingrooms": "6",
+        "maxparticipants": "60",
+        "restaurantcapacity": "65"
+      },
+      "created": "",
+      "updated": ""
+    },
+    {
+      "id": "3",
+      "name": "1909 Sigtuna Stadshotell 3",
+      "slug": "1909-sigtuna-stadshotell-3",
+      "headline": "Hundraårigt hotell intill Mälaren i Sigtuna mellan Stockholm och Arlanda",
+      "address": "Stora Nygatan 3, 193 30 Sigtuna",
+      "description": "Mitt i centrala Sigtuna ligger 1909 Sigtuna Stadshotell vid Mälarens strand. Precis som namnet antyder uppfördes hotellet redan 1909 och är fortfarande en populär mötesplats. Här finns både arvet från det medeltida Sigtuna och elegansen från sekelskiftets design och arkitektur. Närheten till Arlanda, Stockholm och Uppsala betyder att man snabbt kommer på plats. 1909 Sigtuna Stadshotell är ett av Sveriges få femstjärniga hotell och har tilldelats utmärkelsen Sveriges bästa hotell. Gästrummen är omsorgsfullt inredda i 30-50-talsstil med modern tappning. Många av möblerna och armaturerna är specialritade, andra är skandinaviska klassiker i original.",
+      "image": "/images/sample/hotel-dannegården-1.jpg",
+      "images": [
+        "/images/sample/event2.jpg",
+        "/images/sample/event3.jpg",
+        "/images/sample/event4.jpg"
+      ],
+      "location": "Det är lätt att hitta till Sigtuna. Sigtuna ligger vid Mälaren 15 minuter sydväst om Arlanda, 30 minuter sydväst om Uppsala och 30 minuter nordväst om Stockholm. Det är väl skyltat till Sigtuna från E4 och E18. Väl framme vid Sigtuna rondell, följ hotellslingan mot Sigtuna Stadshotell och Sigtuna C. Fortsätt vägen ner till vattnet. Följ sedan strandvägen cirka 500 meter. Hotellet ligger på höger sida. Parkering finns på den sida av huset som vätter mot vattnet.",
+      "facilities": {
+        "hotelrooms": "27",
+        "meetingrooms": "6",
+        "maxparticipants": "60",
+        "restaurantcapacity": "65"
+      },
+      "created": "",
+      "updated": ""
+    },
+    {
+      "id": "4",
+      "name": "1909 Sigtuna Stadshotell 4",
+      "slug": "1909-sigtuna-stadshotell-4",
+      "headline": "Hundraårigt hotell intill Mälaren i Sigtuna mellan Stockholm och Arlanda",
+      "address": "Stora Nygatan 3, 193 30 Sigtuna",
+      "description": "Mitt i centrala Sigtuna ligger 1909 Sigtuna Stadshotell vid Mälarens strand. Precis som namnet antyder uppfördes hotellet redan 1909 och är fortfarande en populär mötesplats. Här finns både arvet från det medeltida Sigtuna och elegansen från sekelskiftets design och arkitektur. Närheten till Arlanda, Stockholm och Uppsala betyder att man snabbt kommer på plats. 1909 Sigtuna Stadshotell är ett av Sveriges få femstjärniga hotell och har tilldelats utmärkelsen Sveriges bästa hotell. Gästrummen är omsorgsfullt inredda i 30-50-talsstil med modern tappning. Många av möblerna och armaturerna är specialritade, andra är skandinaviska klassiker i original.",
+      "image": "/images/sample/hotel-dannegården-1.jpg",
+      "images": [
+        "/images/sample/event2.jpg",
+        "/images/sample/event3.jpg",
+        "/images/sample/event4.jpg"
+      ],
+      "location": "Det är lätt att hitta till Sigtuna. Sigtuna ligger vid Mälaren 15 minuter sydväst om Arlanda, 30 minuter sydväst om Uppsala och 30 minuter nordväst om Stockholm. Det är väl skyltat till Sigtuna från E4 och E18. Väl framme vid Sigtuna rondell, följ hotellslingan mot Sigtuna Stadshotell och Sigtuna C. Fortsätt vägen ner till vattnet. Följ sedan strandvägen cirka 500 meter. Hotellet ligger på höger sida. Parkering finns på den sida av huset som vätter mot vattnet.",
+      "facilities": {
+        "hotelrooms": "27",
+        "meetingrooms": "6",
+        "maxparticipants": "60",
+        "restaurantcapacity": "65"
+      },
+      "created": "",
+      "updated": ""
+    },
+    {
+      "id": "5",
+      "name": "1909 Sigtuna Stadshotell 5",
+      "slug": "1909-sigtuna-stadshotell-5",
+      "headline": "Hundraårigt hotell intill Mälaren i Sigtuna mellan Stockholm och Arlanda",
+      "address": "Stora Nygatan 3, 193 30 Sigtuna",
+      "description": "Mitt i centrala Sigtuna ligger 1909 Sigtuna Stadshotell vid Mälarens strand. Precis som namnet antyder uppfördes hotellet redan 1909 och är fortfarande en populär mötesplats. Här finns både arvet från det medeltida Sigtuna och elegansen från sekelskiftets design och arkitektur. Närheten till Arlanda, Stockholm och Uppsala betyder att man snabbt kommer på plats. 1909 Sigtuna Stadshotell är ett av Sveriges få femstjärniga hotell och har tilldelats utmärkelsen Sveriges bästa hotell. Gästrummen är omsorgsfullt inredda i 30-50-talsstil med modern tappning. Många av möblerna och armaturerna är specialritade, andra är skandinaviska klassiker i original.",
+      "image": "/images/sample/hotel-dannegården-1.jpg",
+      "images": [
+        "/images/sample/event2.jpg",
+        "/images/sample/event3.jpg",
+        "/images/sample/event4.jpg"
+      ],
+      "location": "Det är lätt att hitta till Sigtuna. Sigtuna ligger vid Mälaren 15 minuter sydväst om Arlanda, 30 minuter sydväst om Uppsala och 30 minuter nordväst om Stockholm. Det är väl skyltat till Sigtuna från E4 och E18. Väl framme vid Sigtuna rondell, följ hotellslingan mot Sigtuna Stadshotell och Sigtuna C. Fortsätt vägen ner till vattnet. Följ sedan strandvägen cirka 500 meter. Hotellet ligger på höger sida. Parkering finns på den sida av huset som vätter mot vattnet.",
+      "facilities": {
+        "hotelrooms": "27",
+        "meetingrooms": "6",
+        "maxparticipants": "60",
+        "restaurantcapacity": "65"
+      },
+      "created": "",
+      "updated": ""
+    }
+  ]
+}
