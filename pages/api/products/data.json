@@ -13,20 +13,13 @@
         "/images/sample/event3.jpg",
         "/images/sample/event4.jpg"
       ],
-      "location": "Det är lätt att hitta till Sigtuna. Sigtuna ligger vid Mälaren 15 minuter sydväst om Arlanda, 30 minuter sydväst om Uppsala och 30 minuter nordväst om Stockholm. Det är väl skyltat till Sigtuna från E4 och E18. Väl framme vid Sigtuna rondell, följ hotellslingan mot Sigtuna Stadshotell och Sigtuna C. Fortsätt vägen ner till vattnet. Följ sedan strandvägen cirka 500 meter. Hotellet ligger på höger sida. Parkering finns på den sida av huset som vätter mot vattnet.",
-      "facilities": {
-        "hotelrooms": "27",
-        "meetingrooms": "6",
-        "maxparticipants": "60",
-        "restaurantcapacity": "65"
-      },
+      "hotelrooms": "27",
+      "meetingrooms": "6",
+      "maxparticipants": "60",
+      "restaurantcapacity": "65",
       "category": ["Conference Hotel"],
       "destination": ["Sigtuna"],
-      "tags": {
-        "theme": ["Charming Small Towns", "Secluded and idyllic location"],
-        "maxparticipants": "60",
-        "restaurantcapacity": "65"
-      },
+      "theme": ["Charming Small Towns", "Secluded and idyllic location"],
       "created": "",
       "updated": ""
     },

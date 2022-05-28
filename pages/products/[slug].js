@@ -1,8 +1,14 @@
 import { FaPencilAlt, FaTimes } from 'react-icons/fa';
+import { MdHotel } from 'react-icons/md';
+import { BsPeopleFill } from 'react-icons/bs';
+import { HiPresentationChartBar } from 'react-icons/hi';
+import { BiRestaurant } from 'react-icons/bi';
+
 import Link from 'next/link';
 import Layout from '@/components/Layout';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
+import CardGroup from 'react-bootstrap/CardGroup';
 
 import { API_URL } from '@/config/index';
 
@@ -53,6 +59,48 @@ export default function ProductPage({ prd }) {
           <p>{prd.description}</p>
           <h4 className="fw-bold mt-4">Facilities</h4>
           <hr />
+          <Row>
+            <Col>
+              <CardGroup>
+                <Card className="border-0">
+                  <Card.Body>
+                    <Card.Title>
+                      <MdHotel className="display-4" />
+                    </Card.Title>
+                    <Card.Text>Hotel rooms: {prd.hotelrooms}</Card.Text>
+                  </Card.Body>
+                </Card>
+                <Card className="border-0">
+                  <Card.Body>
+                    <Card.Title>
+                      <HiPresentationChartBar className="display-4" />
+                    </Card.Title>
+                    <Card.Text>Meeting rooms: {prd.meetingrooms}</Card.Text>
+                  </Card.Body>
+                </Card>
+                <Card className="border-0">
+                  <Card.Body>
+                    <Card.Title>
+                      <BsPeopleFill className="display-4" />
+                    </Card.Title>
+                    <Card.Text>
+                      Max participants: {prd.maxparticipants}
+                    </Card.Text>
+                  </Card.Body>
+                </Card>
+                <Card className="border-0">
+                  <Card.Body>
+                    <Card.Title>
+                      <BiRestaurant className="display-4" />
+                    </Card.Title>
+                    <Card.Text>
+                      Restaurant capacity: {prd.restaurantcapacity}
+                    </Card.Text>
+                  </Card.Body>
+                </Card>
+              </CardGroup>
+            </Col>
+          </Row>
           <hr />
           <h4 className="fw-bold mt-4">Location</h4>
           <h2>placeholder for map</h2>
